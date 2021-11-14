@@ -1,0 +1,2 @@
+language = "python3"
+run = "cd lesson4-thanos && python main.py"
